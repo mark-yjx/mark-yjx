@@ -41,7 +41,7 @@
 
 ## 📦 Featured Projects
 
-### Online Judge Platform
+### [Online Judge Platform (WIP)](https://github.com/mark-yjx/placeholder-platform)
 
 A programming practice platform designed for automated code evaluation and algorithm training.
 
